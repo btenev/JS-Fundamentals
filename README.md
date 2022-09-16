@@ -1,2 +1,2 @@
 # JS-Fundamentals
-My Spring Fundamentals course at SoftUni: homework, exercises, exams
+My JS-Fundamentals course at SoftUni: homework, exercises, exams
